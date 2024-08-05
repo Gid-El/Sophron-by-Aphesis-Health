@@ -1,4 +1,4 @@
-const basicFeatures = [
+export const basicFeatures = [
     {
     id:1,
     name:'schedule appointment'
